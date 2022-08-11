@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1_hello.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2_compare.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3_signconstant.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4_simplevar.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5_undeclaredvar.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6_numcount.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7_进制转换.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8_字符整数转换.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="9_转义符.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10_隐式转换.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="11_类型转换.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="12_Arithmetic Operation1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="13_Arithmetic Operation1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="14_Relational Opertator.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="15_Logic Operation1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="16_Logic Operation2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="17_Assignment Operation1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="18_Increment Operation.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="19_Comma Operation.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="20_Function.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="21_hens and rabbits.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="22_Odd Sum.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="23_Narcissistic Number.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="24_Cycle Index.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="26_Sequence Sum.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="25_Greatest Common Divisor.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="27_Pyramid.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="28_Hundred Chickens.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="29_Mark Label.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="30_Prime.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="31_Continue.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="32_Simple Calculator.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="33_printf-d.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="34_printff.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="35_Perfect Number.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="36_Fibonacci.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="37_Monkeys Peaches.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="38_putchar.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="39_getchar.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="40_putsgets.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="41_一维数组输入输出.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="42_一维数组求和求平均.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="43_最大值.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="44_传值和传地址.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="45_数组逆序.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="46_对角线求和.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="47_行列互换.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="48_字符串和字符数组.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="49_字符串输入输出.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="50_字符串连接.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="51_字符串复制.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="52_杨辉三角.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="53_Max and Min.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="54_N Factorial.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="55_Main Function.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
